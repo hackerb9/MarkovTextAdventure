@@ -1,6 +1,13 @@
 Markov Text Adventure Analysis
 --
 
+# MERGED UPSTREAM
+
+*Do not use this repository. Evan has accepted the pull request
+with my python changes. Please use [his respository](https://github.com/evanmiller/MarkovTextAdventure) instead.*
+
+## Old README.md follows
+
 This is a Markov analysis of the [The Teeny Tiny Mansion](http://svn.clifford.at/handicraft/2017/tttm/README).
 Please see [Evan Miller's blog](http://www.evanmiller.org/adventure-games-and-eigenvalues.html)
 for the basic information on what this is supposed to do.
